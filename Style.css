@@ -1,0 +1,37 @@
+body {
+    background-image: url(bag.jpg);
+    object-fit: cover;
+}
+
+table {
+    border: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 7em;
+    background-color: #003153;
+    padding: 20px 10px;
+    border-radius: 10px;
+    padding-bottom: 5px;
+}
+
+input[type="button"] {
+    color: white;
+    border: 0;
+    width: 100%;
+    padding: 2em;
+    font-size: 100%;
+    background: none;
+    border-radius: 3px;
+}
+
+input[type="button"]:hover {
+    background-color: rgb(209, 221, 217);
+    color: #003153;
+}
+
+input[type="text"] {
+    padding-top: 50px;
+    border: 0;
+    border-radius: 3px;
+    background-color: rgb(209, 221, 217);
+}
